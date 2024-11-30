@@ -9,7 +9,8 @@ https://github.com/saurabhdaware/bsky-widget
 
 [bsky-widget.srbh.dev/](https://bsky-widget.srbh.dev/)
 
-![image](https://github.com/user-attachments/assets/4f1580db-8786-4d21-8072-1ce74d8e9d05)
+![image](https://github.com/user-attachments/assets/564b8345-eb39-43bc-9b0f-9c39e963aa3b)
+
 
 # Dependencies
 bsky-widget: https://www.npmjs.com/package/bsky-widget 
