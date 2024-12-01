@@ -1,7 +1,7 @@
 # BlueskyProfile.PCF
 ![GitHub all releases](https://img.shields.io/github/downloads/drivardxrm/BlueskyProfile.PCF/total)
 
-PCF control that displays Bluesky profile based on provided handle
+Power Platform PCF control that displays Bluesky profile based on provided handle
 
 ** The control is merely a wrapper around the bsky-widget library **
 
